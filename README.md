@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and a CSE stud
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amlan101&layout=compact&theme=radical)
-![Amlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amlan101&show_icons=true&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amlan101&theme=radical" alt="GitHub Streak" style="flex: 1;" />
 
 ## 📚 What I'm Learning
 
@@ -58,14 +58,13 @@ Currently, I'm diving deep into Go, the powerhouse for backend development. Its 
 
 When I'm not coding, you can find me leading community events, exploring the latest anime or just reading a book.
 
-## 🎧 Last Played Spotify Songs & Quote
+## 🎧 Last Played Spotify Songs 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=zlazf6r2pfnpf01u4hgb64lf3&count=3&width=400" alt="Last Played Spotify Songs" style="flex: 1; margin-right: 20px;" />
-  <div style="flex: 1; text-align: center; font-style: italic; font-size: 18px; font-family: 'Roboto Mono', monospace;">
-    <strong>⚡ "Peak current only comes after breakdown voltage." ⚡</strong>
-  </div>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Person with Headphones" style="flex: 1; width: 200px; height: 200px;" />
 </div>
+
 
 ---
 
