@@ -8,20 +8,22 @@ Welcome to my GitHub profile! I'm a passionate software developer and a CSE stud
 - **Backend Development Enthusiast**: I enjoy crafting robust and scalable APIs, microservices using Go. 
 - **Community Leader**: As an associate executive at GDSC-CVRGU, I actively lead a community of over 500 developers, sharing the latest trends and knowledge in mobile app development.
 
-## 💡 What I Do
-
-- **Programming Languages**: Java, Python, Go, Kotlin, C/C++, SQL, XML
-- **Tools & Technologies**: Android Studio, Django, MySQL, Redis, GitHub, Postman, MongoDB
-
 ## 🛠️ My Toolbox
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -40,20 +42,30 @@ Currently, I'm diving deep into Go, the powerhouse for backend development. Its 
 
 ## 🔮 What I'd Like to Learn Next
 
-1. **Mastering the Cloud with AWS**: Ready to take off and manage scalable, robust cloud infrastructures.
-2. **Containerization using Docker**: Turning applications into lightweight, portable, self-sufficient containers.
-3. **Orchestrating with Kubernetes**: Managing containerized applications at scale like a pro.
-4. **Getting Comfortable with Linux**: Embracing the terminal, mastering shell scripts, and tweaking the kernel.
-5. **Exploring the JavaScript Ecosystem for Backend Development**: Node.js, Express, and beyond - diving into the world of JS on the server-side.
-6. **Deep Diving into the Java Ecosystem for Backend Development**: Building robust enterprise-level applications with Spring Boot, Hibernate, and more.
+1. Cloud adventures await!: **AWS** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+2. Containerize all the things: **Docker**  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+3. Master of containers: **Kubernetes**  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+4. Command line ninja: **Linux**  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+5. JavaScript Backend Ecosystem: **Node.js & beyond**  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+6.  Java Backend Ecosystem: **Spring into action**  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ## 🌱 Fun Fact
 
-When I'm not coding, you can find me leading community events or just exploring the latest anime.
+When I'm not coding, you can find me leading community events, exploring the latest anime or just reading a book.
 
-## 🎧 Last Played Spotify Songs
+## 🎧 Last Played Spotify Songs & Quote
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=zlazf6r2pfnpf01u4hgb64lf3&count=3)
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=zlazf6r2pfnpf01u4hgb64lf3&count=3&width=400" alt="Last Played Spotify Songs" style="flex: 1; margin-right: 20px;" />
+  <div style="flex: 1; text-align: center; font-style: italic; font-size: 18px; font-family: 'Roboto Mono', monospace;">
+    <strong>⚡ "Peak current only comes after breakdown voltage." ⚡</strong>
+  </div>
+</div>
 
 ---
 
