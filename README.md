@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and a CSE stud
 
 - **Mobile App Development Fanatic**: I'm deeply passionate about developing feature-rich mobile applications, especially on the Android platform using Kotlin.
 - **Backend Development Enthusiast**: I enjoy crafting robust and scalable APIs, microservices using Go. 
-- **Community Leader**: As an associate executive at GDSC-CVRGU, I actively lead a community of over 500 developers, sharing the latest trends and knowledge in mobile app development.
+- **Community Leader**: As the Head Organizer at GDG-CVRGU, I actively lead a community of over 500 developers, sharing the latest trends and knowledge in mobile app development.
 
 ## 🛠️ My Toolbox
 
@@ -67,4 +67,4 @@ When I'm not coding, you can find me leading community events, exploring the lat
 
 ---
 
-Feel free to explore my repositories and reach out if you want to collaborate on exciting projects. Let's innovate together!
+Feel free to explore my repositories and reach out if you want to collaborate on exciting projects.
